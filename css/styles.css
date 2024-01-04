@@ -465,6 +465,8 @@
   ======================================== */
   
   .site-main {
+    padding-top: 60px;
+    padding-bottom: 60px;
     padding: 0 15px;
     position: relative;
   }
@@ -482,7 +484,7 @@
   }
   
   .site-main-header {
-    margin-bottom: 0;
+    margin-bottom: 60px;
   }
   
   .site-main-header h1,
