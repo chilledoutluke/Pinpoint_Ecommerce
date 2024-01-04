@@ -440,7 +440,7 @@
   input:focus,
   textarea:active,
   textarea:focus {
-    border: 1px solid #CCCCCC;
+    border: 1px solid #FC472E;
     outline: none;
   }
   
